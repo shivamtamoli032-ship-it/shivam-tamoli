@@ -167,7 +167,7 @@
 
     <section class="card" id="contact">
       <h2>Contact & Location</h2>
-      <p class="muted">Owner: Ram Kumar — Phone: <a href="tel:+911234567890">+91 12345 67890</a></p>
+      <p class="muted">Owner: Shivam tamoli — Phone: <a href="tel:+916269675152">+91 62696 75152</a></p>
       <p class="muted">WhatsApp orders available. Click chat to open WhatsApp.</p>
       <div style="margin-top:12px">
         <iframe width="100%" height="260" style="border:0;border-radius:8px" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d..."></iframe>
@@ -177,7 +177,7 @@
   </main>
 
   <footer>
-    © <span id="year"></span> Helpful Tiffin Center — All rights reserved. Phone: <a href="tel:+911234567890">+91 12345 67890</a>
+    © <span id="year"></span> Helpful Tiffin Center — All rights reserved. Phone: <a href="tel:+916269675152">+91 62696 75152</a>
   </footer>
 
   <script>
